@@ -1,0 +1,9 @@
+{
+  "name": "Elbit test",
+  "short_name": "Elbit Test",
+  "description": "Elbit test",
+  "background_color": "#fafafa",
+  "theme_color": "#b1624d",
+  "inject": true,
+  "ios": true
+}
